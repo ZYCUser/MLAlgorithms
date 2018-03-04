@@ -1,4 +1,4 @@
-# Machine learning algorithms
+# Machine learning algorithms！
 A collection of minimal and clean implementations of machine learning algorithms.
 
 ### Why?
